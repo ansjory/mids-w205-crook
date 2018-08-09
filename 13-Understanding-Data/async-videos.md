@@ -63,7 +63,7 @@ direct links:
 ##
 13.3.1: `cloud-examples-ec2`
 
-<video preload="none" controls webkit-playsinline="" id="27d19e03-5213-4585-b4b2-ec4f21f1d4b8" width="700" height="394" posterurl="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/mp4_med.mp4">
+<video preload="none" controls webkit-playsinline="" id="27d19e03-5213-4585-b4b2-ec4f21f1d4b8" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/mp4_med.mp4">
   <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/mp4_med.mp4">
   <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bd48fa3d8183271cdf9.vtt" label="Overlay" srclang="en">
   <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bd48fa3d8183271cdf9.html" label="Full" srclang="en">
@@ -76,7 +76,7 @@ direct links:
 ##
 13.3.2: `cloud-examples-gce`
 
-<video preload="none" controls webkit-playsinline="" id="f283ac1e-4a9c-4f2d-bfd9-f764cd959b02" width="700" height="394" posterurl="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/mp4_med.mp4">
+<video preload="none" controls webkit-playsinline="" id="f283ac1e-4a9c-4f2d-bfd9-f764cd959b02" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/mp4_med.mp4">
   <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/mp4_med.mp4">
   <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78be18fa3d8183271cdff.vtt" label="Overlay" srclang="en">
   <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78be18fa3d8183271cdff.html" label="Full" srclang="en">
