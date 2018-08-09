@@ -39,7 +39,7 @@ confuse the browser cache.
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/3049269b6845077957bbd63257390632/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/c6b44753-e9f2-4b2d-be3f-12ef6edc4181/sourcing-data-pipeline-context-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=0cD7BFBfA36Q6GCLXElvLAr3sSo%3D&Expires=1530407049)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.1.1-Sourcing-Data.pdf)
 
 
 #
@@ -48,68 +48,80 @@ direct links:
 ##
 7.2.1: `sourcing-apis`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/sourcing-apis-cover-high.jpg" webkit-playsinline="" id="3d4373bd-13cd-47f3-9576-c647061badfc" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/3d4373bd-13cd-47f3-9576-c647061badfc/sourcing-apis-video-hd1080-h264-30fps.mp4?Expires=1530407050&Signature=6Hac7wW6czA%2BdIsvjiW4W%2BFvVhw%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A"/>
+<video preload="none" controls webkit-playsinline="" id="29a31c61-2de8-43b6-8ff3-245c9692874a" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7c7096d21725841cc76ed2fbaed1ee75/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7c7096d21725841cc76ed2fbaed1ee75/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7c7096d21725841cc76ed2fbaed1ee75/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954bc8fa3d81b3c7e38b4.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954bc8fa3d81b3c7e38b4.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/3d4373bd-13cd-47f3-9576-c647061badfc/sourcing-apis-video-hd1080-h264-30fps.mp4?Expires=1530407050&Signature=6Hac7wW6czA%2BdIsvjiW4W%2BFvVhw%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/3d4373bd-13cd-47f3-9576-c647061badfc/sourcing-apis-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=Sw3Zd4bMJeu9N1yf0Lr2FeoR8mc%3D&Expires=1530407051)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7c7096d21725841cc76ed2fbaed1ee75/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.2.1-Sourcing-Data-APIs.pdf)
 
 ##
 7.2.2: `sourcing-webscraping`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/sourcing-webscraping-cover-high.jpg" webkit-playsinline="" id="3949444f-4bee-45e6-8e68-070f46c30ddb" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/3949444f-4bee-45e6-8e68-070f46c30ddb/sourcing-webscraping-video-hd1080-h264-30fps.mp4?Expires=1530407052&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=3B68HfUo4nlHqjEr2K%2F0Y3JlMdw%3D"/>
+<video preload="none" controls webkit-playsinline="" id="bad92506-30b5-47b0-a977-ca40cc19e75b" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/5050776266f1f634ca8aadc66803a09e/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/5050776266f1f634ca8aadc66803a09e/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/5050776266f1f634ca8aadc66803a09e/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954aa8fa3d81b3c7e38ad.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954aa8fa3d81b3c7e38ad.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/3949444f-4bee-45e6-8e68-070f46c30ddb/sourcing-webscraping-video-hd1080-h264-30fps.mp4?Expires=1530407052&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=3B68HfUo4nlHqjEr2K%2F0Y3JlMdw%3D),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/3949444f-4bee-45e6-8e68-070f46c30ddb/sourcing-webscraping-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=pwcGCYxjkcvNX5VjZOKp08eCQSg%3D&Expires=1530407053)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/5050776266f1f634ca8aadc66803a09e/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.2.2-Sourcing-Data-Web-Pages.pdf)
 
 ##
 7.2.3: `sourcing-files`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/sourcing-email-cover-high.jpg" webkit-playsinline="" id="8eece64e-aa08-4d3e-9a59-5d337fbf05de" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/8eece64e-aa08-4d3e-9a59-5d337fbf05de/sourcing-email-video-hd1080-h264-30fps.mp4?Expires=1530407054&Signature=SQqHUqq3kMQ4tjObAdfh%2BbmQ6qs%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A"/>
+<video preload="none" controls webkit-playsinline="" id="d5c4c86b-bc95-4e60-85c5-c0b6cb64dbf7" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7019065a8432f14e735312126524bc73/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7019065a8432f14e735312126524bc73/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7019065a8432f14e735312126524bc73/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954bb8fa3d81b3c7e38b3.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954bb8fa3d81b3c7e38b3.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/8eece64e-aa08-4d3e-9a59-5d337fbf05de/sourcing-email-video-hd1080-h264-30fps.mp4?Expires=1530407054&Signature=SQqHUqq3kMQ4tjObAdfh%2BbmQ6qs%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/8eece64e-aa08-4d3e-9a59-5d337fbf05de/sourcing-email-slides.pdf?Expires=1530407055&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=dUc6dwn%2ByR1B%2F75ERNdLBM%2Fz9Pg%3D)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7019065a8432f14e735312126524bc73/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.2.3-Sourcing-Data-Files.pdf)
 
 ##
 7.2.4: `sourcing-databases`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/sourcing-databases-cover-high.jpg" webkit-playsinline="" id="6651433a-4619-4bed-afc6-a52ffb72376c" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/6651433a-4619-4bed-afc6-a52ffb72376c/sourcing-databases-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1530407056&Signature=gQNgbu8E0jh1HznvIkZL1ol9CGM%3D"/>
+<video preload="none" controls webkit-playsinline="" id="26810528-b7a2-40c7-a324-a24fe4fb261b" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/a1dbcccc73efde483baa503885a4d301/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/a1dbcccc73efde483baa503885a4d301/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/a1dbcccc73efde483baa503885a4d301/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954ca8fa3d81b3c7e38bb.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954ca8fa3d81b3c7e38bb.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/6651433a-4619-4bed-afc6-a52ffb72376c/sourcing-databases-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1530407056&Signature=gQNgbu8E0jh1HznvIkZL1ol9CGM%3D),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/6651433a-4619-4bed-afc6-a52ffb72376c/sourcing-databases-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=x24fZCE10dyvRUND%2Bs%2BrdtNOecY%3D&Expires=1530407057)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/a1dbcccc73efde483baa503885a4d301/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.2.4-Sourcing-Data-Databases.pdf)
 
 ##
 7.2.5: `sourcing-objectstores`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/sourcing-objectstores-cover-high.jpg" webkit-playsinline="" id="9b0b46d4-89aa-4109-a3d8-16ad26d3b373" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/9b0b46d4-89aa-4109-a3d8-16ad26d3b373/sourcing-objectstores-video-hd1080-h264-30fps.mp4?Signature=uJc%2FF%2BePK7tr32mg3o8vx2NAuG0%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1530407058"/>
+<video preload="none" controls webkit-playsinline="" id="d3f230b0-192e-45a5-85d4-09a770a855c6" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/f6a71ff6ee2be8d0842e64aab9c59ec6/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/f6a71ff6ee2be8d0842e64aab9c59ec6/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/f6a71ff6ee2be8d0842e64aab9c59ec6/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954d98fa3d81b3c7e38c4.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954d98fa3d81b3c7e38c4.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/9b0b46d4-89aa-4109-a3d8-16ad26d3b373/sourcing-objectstores-video-hd1080-h264-30fps.mp4?Signature=uJc%2FF%2BePK7tr32mg3o8vx2NAuG0%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1530407058),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/9b0b46d4-89aa-4109-a3d8-16ad26d3b373/sourcing-objectstores-slides.pdf?Signature=r4sNVwbUeC%2B04MVYvXNcsBTfBao%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1530407059)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/f6a71ff6ee2be8d0842e64aab9c59ec6/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.2.5-Sourcing-Data-Object-Storage.pdf)
 
 ##
 7.2.6: `sourcing-application-pipelines`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/sourcing-application-pipelines-cover-high.jpg" webkit-playsinline="" id="bfe66774-8f87-4c7d-b4de-f5181ea2e7a6" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/bfe66774-8f87-4c7d-b4de-f5181ea2e7a6/sourcing-application-pipelines-video-hd1080-h264-30fps.mp4?Signature=gT71ZjcoY1zEmpIgBTH3WsIKq38%3D&Expires=1530407060&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A"/>
+<video preload="none" controls webkit-playsinline="" id="e41216d8-4e35-40d6-a40c-510f0db21282" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/31d5d27b6895ca936a1f01d0fa8e4d07/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/31d5d27b6895ca936a1f01d0fa8e4d07/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/31d5d27b6895ca936a1f01d0fa8e4d07/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954a58fa3d81b3c7e38a9.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954a58fa3d81b3c7e38a9.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/bfe66774-8f87-4c7d-b4de-f5181ea2e7a6/sourcing-application-pipelines-video-hd1080-h264-30fps.mp4?Signature=gT71ZjcoY1zEmpIgBTH3WsIKq38%3D&Expires=1530407060&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/bfe66774-8f87-4c7d-b4de-f5181ea2e7a6/sourcing-application-pipelines-slides.pdf?Expires=1530407060&Signature=9K8b9masIHeK%2BXlY4Q%2FJgkzil%2BE%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/31d5d27b6895ca936a1f01d0fa8e4d07/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.2.6-Sourcing-Data-Application-Pipelines.pdf)
 
 
 #
@@ -118,13 +130,15 @@ direct links:
 ##
 7.3.1: `data-lineage`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/data-lineage-cover-high.jpg" webkit-playsinline="" id="6aeaf8f1-fe36-4988-afcf-74ee00638597" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/6aeaf8f1-fe36-4988-afcf-74ee00638597/data-lineage-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1530407061&Signature=WEZpLSS1btSIX%2By1IahwsRQmBHM%3D"/>
+<video preload="none" controls webkit-playsinline="" id="379a5da3-f75b-428c-ac02-014c5f25e13b" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7eba4b111a12ea27622a226864108b93/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7eba4b111a12ea27622a226864108b93/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7eba4b111a12ea27622a226864108b93/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954bf8fa3d81b3c7e38b5.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954bf8fa3d81b3c7e38b5.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/6aeaf8f1-fe36-4988-afcf-74ee00638597/data-lineage-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1530407061&Signature=WEZpLSS1btSIX%2By1IahwsRQmBHM%3D),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/6aeaf8f1-fe36-4988-afcf-74ee00638597/data-lineage-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=Ku2iM2JYOmEe1AMJfqdevrlndME%3D&Expires=1530407062)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7eba4b111a12ea27622a226864108b93/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.3.1-Data-Lineage.pdf)
 
 
 #
@@ -139,18 +153,20 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/64e436e74f5d424bed52f0bb283e3b77/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/7ee4eb9a-b43c-49d3-9fb2-d4793bff6cdb/sourcing-data-security-and-privacy-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=T6SsiIwD3avh0KXfPWc8YCFtpDI%3D&Expires=1530407049)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.4.1-Security-and-Privacy.pdf)
 
 ##
 7.4.2: `data-pii`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/data-pii-cover-high.jpg" webkit-playsinline="" id="6a3b95e6-f5cb-455a-8673-20a7de98b0f1" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/6a3b95e6-f5cb-455a-8673-20a7de98b0f1/data-pii-video-hd1080-h264-30fps.mp4?Signature=Mr7iumyHdPSNRTiR%2FC5lF33Jovg%3D&Expires=1530407064&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A"/>
+<video preload="none" controls webkit-playsinline="" id="6bf4ff72-1bc4-48a1-bc95-0c6e6a456014" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/0b708a50597309431ba2a20dc2e23f23/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/0b708a50597309431ba2a20dc2e23f23/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/0b708a50597309431ba2a20dc2e23f23/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab9549c8fa3d81b3c7e38a5.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab9549c8fa3d81b3c7e38a5.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/6a3b95e6-f5cb-455a-8673-20a7de98b0f1/data-pii-video-hd1080-h264-30fps.mp4?Signature=Mr7iumyHdPSNRTiR%2FC5lF33Jovg%3D&Expires=1530407064&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/6a3b95e6-f5cb-455a-8673-20a7de98b0f1/data-pii-slides.pdf?Signature=RqJOcpUuuFlGGhnklX%2Bu4ZhZDBg%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1530407065)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/0b708a50597309431ba2a20dc2e23f23/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+7/7.4.2-Data-Sensitive-Data.pdf)
 
 
 #
