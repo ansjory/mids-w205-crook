@@ -40,7 +40,7 @@ confuse the browser cache.
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/6395e622cf3a2dff14da5bd2ca210be5/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/7ea6b0cb-c75d-4ba3-ab00-65714abb74d1/intro-what-is-data-engineering-slides.pdf?Signature=abwcP8Yh6tT9Rd%2FkBp9TssjRmUU%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1528132671)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+1/What-is-Data-Engineering.pdf)
 
 ##
 1.1.2: `intro-what-will-i-be-able-to-do`
@@ -51,7 +51,7 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fcb7c7bd9fd400bcc154a567df8de022/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/407ffc42-c21f-4135-95cb-0464e0e6fde5/intro-what-will-i-be-able-to-do-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=G0qyPTRMLQHgD0TqLZgvXYxu%2B68%3D&Expires=1528132671)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+1/What-will-i-be-able-to-do-after-this-course.pdf)
 
 
 #
@@ -66,7 +66,7 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/6e1994348f4252818502907bcf7b8f35/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/a33196d4-14d2-4e95-8721-58699c0520cd/intro-organization-and-approach-slides.pdf?Expires=1528132672&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=ToQUPsIrWPb3RVryI2BXr85owPs%3D)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+1/Organization-and-Approach.pdf)
 
 
 #
@@ -82,7 +82,7 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/6d082c9bbf16606dafd841dab8e6c228/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/4cfd693b-1297-412e-b60e-c784af0ad226/intro-whats-a-data-pipeline-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=tX2UctkICOHp9vtczsPolL%2FjW3g%3D&Expires=1528132673)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+1/A-Data-Pipeline.pdf)
 
 ##
 1.3.2: `intro-typical-pipeline-components`
@@ -93,7 +93,7 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/d0abea368f027be066bbe4318169931e/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/4d04897e-1315-4355-94d0-49d2192dcf74/intro-typical-pipeline-components-slides.pdf?Expires=1528132673&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=0Ir7y06ZD%2F4b4h6vCRtpxFynlns%3D)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+1/Pipeline-Components.pdf)
 
 
 #
@@ -108,7 +108,7 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/dd1942fb5c03591dcfa0f019700404c8/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/8f647330-b365-4cca-95c3-37974be90fa7/intro-device-events-slides.pdf?Expires=1528132674&Signature=kx90Sb6FByD5i6oSqgaX4XaUFqY%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+1/Device-Events.pdf)
 
 ##
 1.4.2: `intro-user-events`
@@ -119,7 +119,7 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/0234c88faf97d8b099c4a2a3c7f47bc2/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/cce69dc3-1f48-475e-8dbd-bb3229537485/intro-user-events-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=IjDGy88y9nxHAJ1EBoie2etFNq8%3D&Expires=1528132674)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+1/User-Events.pdf)
 
 ##
 1.4.3: `intro-event-streams`
@@ -130,7 +130,7 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/8e7ecb78c4ef117bb5698e9e06269cf6/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/e623bc8a-4598-4bf6-a3f5-8e407c41eba1/intro-event-streams-slides.pdf?Expires=1528132675&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=wbT3rNFhlhpruUCgrECXSIbCpEY%3D)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+1/Event-Streams.pdf)
 
 
 #
