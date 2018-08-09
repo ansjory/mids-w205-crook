@@ -38,7 +38,7 @@ confuse the browser cache.
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/5eee2cd7c5c2eacc627572e5ceffa1a9/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/e566f5f7-8dd9-4c97-83e4-57f76130cecc/ingesting-data-pipeline-context-slides.pdf?Expires=1532703398&Signature=ly0vx8H0%2BJs728c%2FrUbk6t92eLM%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+9/9.1.1-Ingesting-Data.pdf)
 
 
 #
@@ -53,29 +53,34 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/86cce8ff059d84d015766eee0134f0a5/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/2e4b86e5-0e7c-4f59-8652-c95aa88ed48c/distributed-messaging-intro-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1532703399&Signature=BJjNn%2BcEANoAA1TCusBJ6fAB%2F6Q%3D)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+9/9.2.1-Distributed-Messaging.pdf)
 
 ##
 9.2.2: `kafka-walkthrough`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/kafka-walkthrough-cover-high.jpg" webkit-playsinline="" id="b0d92fad-bd5c-4d52-8cd3-51a70f6bea5a" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/b0d92fad-bd5c-4d52-8cd3-51a70f6bea5a/kafka-walkthrough-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=A4I9BN3JrzAAXaVIcO1noAJtryQ%3D&Expires=1532703400"/>
+<video preload="none" controls webkit-playsinline="" id="42e5e3f7-5c98-42bb-8383-06eb52c75601" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/c4d828cd475409df85f37c414cb5b8bb/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/c4d828cd475409df85f37c414cb5b8bb/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/c4d828cd475409df85f37c414cb5b8bb/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954cf8fa3d81b3c7e38be.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954cf8fa3d81b3c7e38be.html" label="Full" srclang="en">
 </video>
 
+
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/b0d92fad-bd5c-4d52-8cd3-51a70f6bea5a/kafka-walkthrough-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=A4I9BN3JrzAAXaVIcO1noAJtryQ%3D&Expires=1532703400),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/b0d92fad-bd5c-4d52-8cd3-51a70f6bea5a/kafka-walkthrough-slides.pdf?Signature=Q5jULYDUt7YqOgHetsuHGNYxrxk%3D&Expires=1532703400&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/c4d828cd475409df85f37c414cb5b8bb/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+9/9.2.2-Walkthrough.pdf)
 
 ##
 9.2.3: `kafka-sourcing`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/kafka-sourcing-cover-high.jpg" webkit-playsinline="" id="d59b8628-88a3-43c1-b3a6-8f62b5e6e098" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/d59b8628-88a3-43c1-b3a6-8f62b5e6e098/kafka-sourcing-video-hd1080-h264-30fps.mp4?Signature=P2AB1uPygWNvRJbl8r9O5cTn70A%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1532703401"/>
+<video preload="none" controls webkit-playsinline="" id="11f6c766-a81d-4af6-8f51-a6eba7f4d28e" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/1ba2fd1d4368faa65b0f049c4b3ef8f1/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/1ba2fd1d4368faa65b0f049c4b3ef8f1/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/1ba2fd1d4368faa65b0f049c4b3ef8f1/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954a18fa3d81b3c7e38a7.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954a18fa3d81b3c7e38a7.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/d59b8628-88a3-43c1-b3a6-8f62b5e6e098/kafka-sourcing-video-hd1080-h264-30fps.mp4?Signature=P2AB1uPygWNvRJbl8r9O5cTn70A%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1532703401),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/d59b8628-88a3-43c1-b3a6-8f62b5e6e098/kafka-sourcing-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1532703401&Signature=umYjCyaiL%2FiunovhJXyHSWF4g1I%3D)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/1ba2fd1d4368faa65b0f049c4b3ef8f1/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+9/9.2.3-Sourcing-Data.pdf)
 
 ##
 9.2.4: `ingesting-data-latency`
@@ -86,29 +91,33 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/9daccd509dc53cbc55322108c790ad7d/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/f43244b2-de0c-4a62-a504-65e4752c1891/ingesting-data-latency-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1532703399&Signature=U%2FBDsghCawRtJ6eq39zwli8zOac%3D)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+9/9.2.4-Latency.pdf)
 
 ##
 9.2.5: `kafka-batch-sizes-and-latency`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/kafka-batch-sizes-and-latency-cover-high.jpg" webkit-playsinline="" id="09e3cc85-a9da-4a35-9187-175ad8b98f5d" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/09e3cc85-a9da-4a35-9187-175ad8b98f5d/kafka-batch-sizes-and-latency-video-hd1080-h264-30fps.mp4?Signature=t2cn8JXqAeSrQb5Wmbo9WkXJhX4%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1532703402"/>
+<video preload="none" controls webkit-playsinline="" id="3f5b628e-163a-4a9c-897d-d7dcb719e88d" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/52c9ffacf1a7a2b8a698d53a9b2eb84b/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/52c9ffacf1a7a2b8a698d53a9b2eb84b/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/52c9ffacf1a7a2b8a698d53a9b2eb84b/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954ad8fa3d81b3c7e38af.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab954ad8fa3d81b3c7e38af.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/09e3cc85-a9da-4a35-9187-175ad8b98f5d/kafka-batch-sizes-and-latency-video-hd1080-h264-30fps.mp4?Signature=t2cn8JXqAeSrQb5Wmbo9WkXJhX4%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1532703402),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/09e3cc85-a9da-4a35-9187-175ad8b98f5d/kafka-batch-sizes-and-latency-slides.pdf?Signature=vvd7iDnuH4c7GdV78oA4xBIRKcA%3D&Expires=1532703402&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/52c9ffacf1a7a2b8a698d53a9b2eb84b/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+9/9.2.5-Batch-Sizes-and-Latency.pdf)
 
 ##
 9.2.6: `kafka-driven-by-queries`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/kafka-driven-by-queries-cover-high.jpg" webkit-playsinline="" id="5617f7ed-0809-44e9-8aa9-d052169b8563" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/5617f7ed-0809-44e9-8aa9-d052169b8563/kafka-driven-by-queries-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=iFeSNUqQFBqRZrjfprM3Au9rl4Y%3D&Expires=1532703403"/>
+<video preload="none" controls webkit-playsinline="" id="cb267b75-a619-4815-a1fb-0cddb850cebc" width="700" height="394" poster="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/19187a4d4ab55f7aee1d52dccdabae99/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/19187a4d4ab55f7aee1d52dccdabae99/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/19187a4d4ab55f7aee1d52dccdabae99/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab9549f8fa3d81b3c7e38a6.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ab9549f8fa3d81b3c7e38a6.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/5617f7ed-0809-44e9-8aa9-d052169b8563/kafka-driven-by-queries-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=iFeSNUqQFBqRZrjfprM3Au9rl4Y%3D&Expires=1532703403),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/5617f7ed-0809-44e9-8aa9-d052169b8563/kafka-driven-by-queries-slides.pdf?Signature=Fo1Gyx6MyWT1bE7gyk97twhIpHs%3D&Expires=1532703403&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/19187a4d4ab55f7aee1d52dccdabae99/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+9/9.2.6-Driven-by-Queries.pdf)
 
 #
 <img class="logo" src="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/berkeley-school-of-information-logo.png"/>
