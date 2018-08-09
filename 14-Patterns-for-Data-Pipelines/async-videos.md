@@ -33,13 +33,15 @@ confuse the browser cache.
 ##
 14.1.1: `devops-infrastructure-as-code`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/devops-infrastructure-as-code-cover-high.jpg" webkit-playsinline="" id="4f263555-2a83-445f-baec-3ea37b093bef" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/4f263555-2a83-445f-baec-3ea37b093bef/devops-infrastructure-as-code-video-hd1080-h264-30fps.mp4?Signature=Sk93V1FE3Hx88b7C6AirS2cjBrw%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1536360765"/>
+<video preload="auto" webkit-playsinline="" id="0f6e81d5-129c-4fcd-9e09-d9a60378b567" width="700" height="394" posterurl="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/d7f6de8ab8994eb8bf71c29b6f960c30/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/d7f6de8ab8994eb8bf71c29b6f960c30/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/d7f6de8ab8994eb8bf71c29b6f960c30/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bda8fa3d8183271cdfc.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bda8fa3d8183271cdfc.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/4f263555-2a83-445f-baec-3ea37b093bef/devops-infrastructure-as-code-video-hd1080-h264-30fps.mp4?Signature=Sk93V1FE3Hx88b7C6AirS2cjBrw%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Expires=1536360765),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/4f263555-2a83-445f-baec-3ea37b093bef/devops-infrastructure-as-code-slides.pdf?Expires=1536360766&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=KI9b5itqyjzoYU4oKcMV9lEj49s%3D)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/d7f6de8ab8994eb8bf71c29b6f960c30/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+14/14.1.1-Infrastructure-as-Code.pdf)
 
 
 #
@@ -48,24 +50,29 @@ direct links:
 ##
 14.2.1: `clustering-examples-swarm`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/clustering-examples-swarm-cover-high.jpg" webkit-playsinline="" id="7e052622-ea4b-44c7-8845-841b0ffd1371" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/7e052622-ea4b-44c7-8845-841b0ffd1371/clustering-examples-swarm-video-hd1080-h264-30fps.mp4?Expires=1536360766&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=6VKFwVGnsgOvCHc3aBuH5lC7zvQ%3D"/>
+<video preload="auto" webkit-playsinline="" id="155c4b3c-d6c9-4feb-86c6-51820b6d6661" width="700" height="394" posterurl="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/37b2f3e9dd2f22913873f416a6dd7a52/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/37b2f3e9dd2f22913873f416a6dd7a52/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/37b2f3e9dd2f22913873f416a6dd7a52/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bd28fa3d8183271cdf8.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bd28fa3d8183271cdf8.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/7e052622-ea4b-44c7-8845-841b0ffd1371/clustering-examples-swarm-video-hd1080-h264-30fps.mp4?Expires=1536360766&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=6VKFwVGnsgOvCHc3aBuH5lC7zvQ%3D),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/7e052622-ea4b-44c7-8845-841b0ffd1371/clustering-examples-swarm-slides.pdf?Expires=1536360767&Signature=jHWDLbSktIVKJoRiOKr7BP%2BAKgo%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/37b2f3e9dd2f22913873f416a6dd7a52/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+14/14.2.1-Docker-Swarm.pdf)
 
 ##
 14.2.2: `clustering-examples-kubernetes`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/clustering-examples-kubernetes-cover-high.jpg" webkit-playsinline="" id="73b833e5-8acf-4feb-8183-9bbd85c1be14" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/73b833e5-8acf-4feb-8183-9bbd85c1be14/clustering-examples-kubernetes-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=B67as0qWtQlMOVxIb37pVtAtIDA%3D&Expires=1536360767"/>
+
+<video preload="auto" webkit-playsinline="" id="7668db13-0078-409b-9ef1-dc0fecef7d37" width="700" height="394" posterurl="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/f1a2f5a38fbbafbe96c5efcd07950196/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/f1a2f5a38fbbafbe96c5efcd07950196/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/f1a2f5a38fbbafbe96c5efcd07950196/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bdf8fa3d8183271cdfe.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bdf8fa3d8183271cdfe.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/73b833e5-8acf-4feb-8183-9bbd85c1be14/clustering-examples-kubernetes-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=B67as0qWtQlMOVxIb37pVtAtIDA%3D&Expires=1536360767),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/73b833e5-8acf-4feb-8183-9bbd85c1be14/clustering-examples-kubernetes-slides.pdf?Expires=1536360768&Signature=dDV8krlil9vg11esLgYRaQ6%2BIkg%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/f1a2f5a38fbbafbe96c5efcd07950196/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+14/14.2.2-Kubernetes.pdf)
 
 #
 <img class="logo" src="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/berkeley-school-of-information-logo.png"/>
