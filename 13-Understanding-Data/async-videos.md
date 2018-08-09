@@ -39,7 +39,7 @@ confuse the browser cache.
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/0c05c1d984bf1f5cee0bcd30da79e5ce/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/45bfed1c-f72e-4e3e-a94c-57d0a30f7777/understanding-data-pipeline-context-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=JTSijWWQFcrPRZib7tN1FNrzzHk%3D&Expires=1536187604)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+13/13.1.1-Understanding-Data.pdf)
 
 
 #
@@ -54,7 +54,7 @@ direct links:
 
 direct links:
 [video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/7b6931852988a804d7c93902eafcd3ea/mp4_med.mp4),
-[slides](https://mids-w205-development.s3.amazonaws.com/lectures/ce2c51b1-f284-490e-b800-c6442eb13983/sessionization-and-state-slides.pdf?Expires=1536187604&Signature=hSVlv61G%2B6OlzonoEtc%2FhRWPT0w%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+13/13.2.1-Sessionization-and-State.pdf)
 
 
 #
@@ -63,24 +63,28 @@ direct links:
 ##
 13.3.1: `cloud-examples-ec2`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/cloud-examples-ec2-cover-high.jpg" webkit-playsinline="" id="a8edd9d1-93c7-4c43-a238-6292228853d0" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/a8edd9d1-93c7-4c43-a238-6292228853d0/cloud-examples-ec2-video-hd1080-h264-30fps.mp4?Expires=1536187605&Signature=GpHZLgH3a9398gJ63jm%2F7KwmEyM%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A"/>
+<video preload="auto" webkit-playsinline="" id="27d19e03-5213-4585-b4b2-ec4f21f1d4b8" width="700" height="394" posterurl="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bd48fa3d8183271cdf9.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78bd48fa3d8183271cdf9.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/a8edd9d1-93c7-4c43-a238-6292228853d0/cloud-examples-ec2-video-hd1080-h264-30fps.mp4?Expires=1536187605&Signature=GpHZLgH3a9398gJ63jm%2F7KwmEyM%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/a8edd9d1-93c7-4c43-a238-6292228853d0/cloud-examples-ec2-slides.pdf?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=rbH%2FKJLTlLKSMc%2FHUuBzVLZxtxc%3D&Expires=1536187605)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/58c6da9827827eafd558da7ba58f623a/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+13/13.3.1-EC2.pdf)
 
 ##
 13.3.2: `cloud-examples-gce`
 
-<video preload="none" controls poster="http://people.ischool.berkeley.edu/~mark.mims/course-development/2017-mids-w205/media/cloud-examples-gce-cover-high.jpg" webkit-playsinline="" id="dd125faa-7e78-4e8f-be9f-a4fbc1508c92" width="700" height="394" tabindex="-1">
-  <source type="video/mp4" src="https://mids-w205-development.s3.amazonaws.com/screencasts/dd125faa-7e78-4e8f-be9f-a4fbc1508c92/cloud-examples-gce-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=egzfAYwwcqRrxtBUumi8HTaUzro%3D&Expires=1536187606"/>
+<video preload="auto" webkit-playsinline="" id="f283ac1e-4a9c-4f2d-bfd9-f764cd959b02" width="700" height="394" posterurl="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/0_high.jpg" tabindex="-1" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/mp4_med.mp4">
+  <source type="video/mp4" src="https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/mp4_med.mp4">
+  <track kind="subtitles" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78be18fa3d8183271cdff.vtt" label="Overlay" srclang="en">
+  <track kind="transcript" src="https://corp-tech.s3.amazonaws.com/captioning/captions/5ae78be18fa3d8183271cdff.html" label="Full" srclang="en">
 </video>
 
 direct links:
-[video](https://mids-w205-development.s3.amazonaws.com/screencasts/dd125faa-7e78-4e8f-be9f-a4fbc1508c92/cloud-examples-gce-video-hd1080-h264-30fps.mp4?AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A&Signature=egzfAYwwcqRrxtBUumi8HTaUzro%3D&Expires=1536187606),
-[slides](https://mids-w205-development.s3.amazonaws.com/screencasts/dd125faa-7e78-4e8f-be9f-a4fbc1508c92/cloud-examples-gce-slides.pdf?Expires=1536187606&Signature=l48XGFMu6mmDpVABJvno6QOgmbY%3D&AWSAccessKeyId=AKIAIO5BJ5NEJCZYSG2A)
+[video](https://ucb-mids.s3.amazonaws.com/prod/output_video_general/fdc3648d0d60c069f97831714ce08fdc/mp4_med.mp4),
+[slides](https://s3.amazonaws.com/ucb-mids/prod/UCB-MIDS_0019/Slides/Unit+13/13.3.2-GCP-Compute.pdf)
 
 
 #
